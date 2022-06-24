@@ -42,7 +42,6 @@ public class SimpleChattyBot {
 
     static void test() {
         System.out.println("Let's test your programming knowledge.");
-        // write your code here
         System.out.println("Why do we use methods?");
         System.out.println("1. To repeat a statement multiple times.\n" +
                 "2. To decompose a program into several small subroutines.\n" +
@@ -58,6 +57,6 @@ public class SimpleChattyBot {
     }
 
     static void end() {
-        System.out.println("Congratulations, have a nice day!"); // Do not change this text
+        System.out.println("Congratulations, have a nice day!");
     }
 }
